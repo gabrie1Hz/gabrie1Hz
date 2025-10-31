@@ -12,7 +12,7 @@ Estilo dark, centrado y con badges minimalistas.
 <!-- Texto animado (typing effect) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Bug+Hunter;Pentester;Dev+de+Herramientas;Ciberseguridad;Aprende%2C+rompe+y+documenta+%28%C3%A9ticamente%29"
+    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Programador;Amante+de+Linux;Hacking+%C3%A9tico;Red+Team;Blue+Team;CTFs+%26+Writeups"
     alt="roles animados"
   />
 </p>
