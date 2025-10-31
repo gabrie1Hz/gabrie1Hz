@@ -9,6 +9,14 @@ Estilo dark, centrado y con badges minimalistas.
   Ingeniero en Sistemas • Ciberseguridad & Hacking Ético • Dev tools
 </p>
 
+<!-- Texto animado (typing effect) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Bug+Hunter;Pentester;Dev+de+Herramientas;Ciberseguridad;Aprende%2C+rompe+y+documenta+%28%C3%A9ticamente%29"
+    alt="roles animados"
+  />
+</p>
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=gabrie1Hz&style=for-the-badge&color=0e75b6"><img src="https://komarev.com/ghpvc/?username=gabrie1Hz&style=for-the-badge&color=0e75b6" alt="views"/></a>
   <a href="https://gabrie1hz.github.io/gabrie1Hz-gabrie1Hz.github.io/"><img src="https://img.shields.io/badge/GitHub%20Pages-Online-242938?style=for-the-badge&logo=github" alt="pages"/></a>
